@@ -1,0 +1,19 @@
+{
+  "name": "清醒搞钱",
+  "short_name": "清醒",
+  "description": "创业者的个人工作台：盯商单、跟客户、看交付、记灵感、写日志",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f6fc",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
